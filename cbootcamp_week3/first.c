@@ -10,7 +10,7 @@ switch(a)
     break;
 
     case 1:  printf("option 1 has been selected\n");
-    break;
+    break;./
 
     default: printf("A different option has been selected\n");
 }
